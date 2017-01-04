@@ -19,3 +19,12 @@
 
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
+
+### Day 2: Jan 4rd, 2017 Tuesday
+
+**Today's Progress**: continued to work on the same project. Added navbar with bootstrap. Then installed mongodb to store data. created the notification schema and working on seed file to feed data to the DB for testing.
+
+**Thoughts** Today I need to go back to some of the code along codes to look for what I need for the project. For bootstrap, I started to look up the pieces that I need on the documentation. It is harder to try to figure what I need to do in a real project than just coding along with tutorial. But by looking up old code and looking up information on the internet really help me learn. And I am happy to know that if I got stuck with something, I know where to look for what I need to continue.
+
+**Link(s) to work**
+[Abuse_notification](https://github.com/leolee1986/abuse_notification)
