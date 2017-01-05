@@ -20,11 +20,21 @@
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
 
-### Day 2: Jan 4rd, 2017 Tuesday
+### Day 2: Jan 4rd, 2017 Wednesday
 
 **Today's Progress**: continued to work on the same project. Added navbar with bootstrap. Then installed mongodb to store data. created the notification schema and working on seed file to feed data to the DB for testing.
 
 **Thoughts** Today I need to go back to some of the code along codes to look for what I need for the project. For bootstrap, I started to look up the pieces that I need on the documentation. It is harder to try to figure what I need to do in a real project than just coding along with tutorial. But by looking up old code and looking up information on the internet really help me learn. And I am happy to know that if I got stuck with something, I know where to look for what I need to continue.
+
+**Link(s) to work**
+[Abuse_notification](https://github.com/leolee1986/abuse_notification)
+
+
+### Day 3: Jan 5rd, 2017 Thursday
+
+**Today's Progress**: Created CRETAE route, to post input from input form to mongodb. Installed body-parser to parse form data to allow the route to put data into the db. The form can correctly add date to the db and the index page will display the data added.
+
+**Thoughts** I found myself looking up a lot of infomatin in order to get what I needed to make the RESTFul route to work. spent sometime on debugging due to the from will not parse the data to db and keep throw a error. Turn out I forget to install software package in order for it to work. Coded for an hour and happy with progress so far.
 
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
