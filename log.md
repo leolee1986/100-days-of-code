@@ -38,3 +38,12 @@
 
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
+
+### Day 4: Jan 6rd, 2017 Friday
+
+**Today's Progress**: Created SHOW route and updated index page with some bootstrap. created EDIT route to edit each entry to the db. But need more debugging
+
+**Thoughts** I started to feel less frustrated with bugs, when something is not working, I start to accept it things are not always work at the 1st go. I will look on the internet and to debug with my best ability.
+
+**Link(s) to work**
+[Abuse_notification](https://github.com/leolee1986/abuse_notification)
