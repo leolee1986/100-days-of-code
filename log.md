@@ -47,3 +47,9 @@
 
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
+
+### Day 5: Jan 7rd, 2017 Saturday
+
+**Today's Progress**: modified EDIT route with bootstrap to look nice. created UPDATE route to update db. installed method-override package to use PUT method, but need debug
+
+**Thoughts** I ran into a bug that I couldn't fix for about 30 mins, for bootstrap, i am a lot more comfortable to look for example on the bootstrap website. Overall I am happy the progress. Seem like bugs are inevitable when you working on a project. I am getting stuck, I think the best way to deal with them is to stop now and start later.
