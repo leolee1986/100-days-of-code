@@ -20,7 +20,7 @@
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
 
-### Day 2: Jan 4rd, 2017 Wednesday
+### Day 2: Jan 4th, 2017 Wednesday
 
 **Today's Progress**: continued to work on the same project. Added navbar with bootstrap. Then installed mongodb to store data. created the notification schema and working on seed file to feed data to the DB for testing.
 
@@ -30,7 +30,7 @@
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
 
 
-### Day 3: Jan 5rd, 2017 Thursday
+### Day 3: Jan 5th, 2017 Thursday
 
 **Today's Progress**: Created CRETAE route, to post input from input form to mongodb. Installed body-parser to parse form data to allow the route to put data into the db. The form can correctly add date to the db and the index page will display the data added.
 
@@ -39,7 +39,7 @@
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
 
-### Day 4: Jan 6rd, 2017 Friday
+### Day 4: Jan 6th, 2017 Friday
 
 **Today's Progress**: Created SHOW route and updated index page with some bootstrap. created EDIT route to edit each entry to the db. But need more debugging
 
@@ -48,14 +48,14 @@
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
 
-### Day 5: Jan 7rd, 2017 Saturday
+### Day 5: Jan 7th, 2017 Saturday
 
 **Today's Progress**: modified EDIT route with bootstrap to look nice. created UPDATE route to update db. installed method-override package to use PUT method, but need debug
 
 **Thoughts** I ran into a bug that I couldn't fix for about 30 mins, for bootstrap, i am a lot more comfortable to look for example on the bootstrap website. Overall I am happy the progress. Seem like bugs are inevitable when you working on a project. I am getting stuck, I think the best way to deal with them is to stop now and start later.
 
 
-### Day 6: Jan 8rd, 2017 Sunday
+### Day 6: Jan 8th, 2017 Sunday
 
 **Today's Progress**: Fixed update route, it is now updating the db correctly. created DELETE route, also created the new channels page. looked up more infomation on how to use bootstrap. Also use javascript to put a default value on the date picker since html will not allow to assign default value using value attr for current date.
 
