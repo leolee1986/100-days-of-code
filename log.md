@@ -53,3 +53,13 @@
 **Today's Progress**: modified EDIT route with bootstrap to look nice. created UPDATE route to update db. installed method-override package to use PUT method, but need debug
 
 **Thoughts** I ran into a bug that I couldn't fix for about 30 mins, for bootstrap, i am a lot more comfortable to look for example on the bootstrap website. Overall I am happy the progress. Seem like bugs are inevitable when you working on a project. I am getting stuck, I think the best way to deal with them is to stop now and start later.
+
+
+### Day 6: Jan 8rd, 2017 Sunday
+
+**Today's Progress**: Fixed update route, it is now updating the db correctly. created DELETE route, also created the new channels page. looked up more infomation on how to use bootstrap. Also use javascript to put a default value on the date picker since html will not allow to assign default value using value attr for current date.
+
+**Thoughts** I am so happy to get the bugs I had yesterday fixed. not sure what went wrong yesterday. I simplely re-writing the the update route, but I started with the simple res.send then add a piece at a time to finally get it working. I guess taking it one step at a time will allow me to catch the simple problem get it fix then move on the next problem is better to have a block of non-working code and don't know where to start to fix.
+
+**Link(s) to work**
+[Abuse_notification](https://github.com/leolee1986/abuse_notification)
