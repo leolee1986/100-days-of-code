@@ -63,3 +63,12 @@
 
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
+
+### Day 7: Jan 9th, 2017 Monday
+
+**Today's Progress**: created channel schema for the new channels route. created the NEW route to add channels. add bootstrap to the channels/new.ejs . Added all IBCAP programmers to radio option html list, sorted them by name
+
+**Thoughts** It had been a full week and I am so glad I stick to it. I know it is just a beginning, but I am excited.
+
+**Link(s) to work**
+[Abuse_notification](https://github.com/leolee1986/abuse_notification)
