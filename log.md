@@ -72,3 +72,12 @@
 
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
+
+### Day 8: Jan 10th, 2017 Tuesday
+
+**Today's Progress**: created the channel create route, show route, updated the index route, play with bootstrap to style the show page
+
+**Thoughts** Today perhap the toughest day by far, went to work @7am and get home  @7pm. I have been working in front of a computer all day. But I keep reminding myself I will need to stick with it. glad that I finish my 1 hr of coding even when I feel very tired.
+
+**Link(s) to work**
+[Abuse_notification](https://github.com/leolee1986/abuse_notification)
