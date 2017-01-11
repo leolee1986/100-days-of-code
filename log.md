@@ -81,3 +81,12 @@
 
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
+
+### Day 9: Jan 11th, 2017 Wednesday
+
+**Today's Progress**: created the channel edit route and spent a lot of time bootstarp it. Also updated the channels schema to add more infomation to the channel. 
+
+**Thoughts** After yesterday, I decided to start coding eariler for the day. That way I more likely to get the coding done. I start to fell more comfortable with bootstrap. With some basics on node and express, I want to start to learn react as well.
+
+**Link(s) to work**
+[Abuse_notification](https://github.com/leolee1986/abuse_notification)
