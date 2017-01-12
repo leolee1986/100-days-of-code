@@ -90,3 +90,12 @@
 
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
+
+### Day 10: Jan 12th, 2017 Thursday
+
+**Today's Progress**: created channel update and delete route, bootstrap the show page and edit page to show correct infomation from the db. 
+
+**Thoughts** The app is start to taking shape, and I start to have more idea on where I can improve the app.
+
+**Link(s) to work**
+[Abuse_notification](https://github.com/leolee1986/abuse_notification)
