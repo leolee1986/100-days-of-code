@@ -99,3 +99,12 @@
 
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
+
+### Day 11: Jan 13th, 2017 Friday
+
+**Today's Progress**: add channels that is on the db to display on different as input. Display correctly but when I post the page, the data is not push into the db
+
+**Thoughts** I stuck on one feature that I want the app to have. seem like I will need to do some research to figure out what I need to do to get it working
+
+**Link(s) to work**
+[Abuse_notification](https://github.com/leolee1986/abuse_notification)
