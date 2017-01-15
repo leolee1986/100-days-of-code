@@ -108,3 +108,12 @@
 
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
+
+### Day 12: Jan 14th, 2017 Saturday
+
+**Today's Progress**: start to learn user auth and add user auth to the webapp. 
+
+**Thoughts** I start to feel many of the features I would like to find in the webapp I don't really know how to do, but that motivated me to learn more and start to look for a solution online
+
+**Link(s) to work**
+[Abuse_notification](https://github.com/leolee1986/abuse_notification)
