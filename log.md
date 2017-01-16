@@ -126,3 +126,12 @@
 
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
+
+### Day 14: Jan 16th, 2017 Monday
+
+**Today's Progress**: finished app basic user auth, user can register, login and logout, only logged in user can create new letter and/ or channel
+
+**Thoughts** the basic of the app are done, happy with the progress, but start to feel like a lot more need to learn. but as the app progress, I start to see what I need to learn in the next step.
+
+**Link(s) to work**
+[Abuse_notification](https://github.com/leolee1986/abuse_notification)
