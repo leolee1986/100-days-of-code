@@ -117,3 +117,12 @@
 
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
+
+### Day 13: Jan 15th, 2017 Sunday
+
+**Today's Progress**: Learn more about user auth, and add login form, and logout logic
+
+**Thoughts** Started to code kinda late at night, I should start to code earlier of the day. Since I know I am going to watch NFL playoff. start early will make sure I don't skip because I want to watch TV.
+
+**Link(s) to work**
+[Abuse_notification](https://github.com/leolee1986/abuse_notification)
