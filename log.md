@@ -135,3 +135,21 @@
 
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
+
+### Day 15: Jan 17th, 2017 Tuesday
+
+**Today's Progress**: Learn about express router
+
+**Thoughts** The app is getting messy on the main file. need to learn a way to refactor some code.
+
+**Link(s) to work**
+[Abuse_notification](https://github.com/leolee1986/abuse_notification)
+
+### Day 16: Jan 18th, 2017 Wednesday
+
+**Today's Progress**: User express router to break the code into a few different files.
+
+**Thoughts** Breaking the code into differnt pieces make the app's code look much cleaner. Which would help me to modify the code in the future. 
+
+**Link(s) to work**
+[Abuse_notification](https://github.com/leolee1986/abuse_notification)
