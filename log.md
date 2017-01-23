@@ -84,7 +84,7 @@
 
 ### Day 9: Jan 11th, 2017 Wednesday
 
-**Today's Progress**: created the channel edit route and spent a lot of time bootstarp it. Also updated the channels schema to add more infomation to the channel. 
+**Today's Progress**: created the channel edit route and spent a lot of time bootstarp it. Also updated the channels schema to add more infomation to the channel.
 
 **Thoughts** After yesterday, I decided to start coding eariler for the day. That way I more likely to get the coding done. I start to fell more comfortable with bootstrap. With some basics on node and express, I want to start to learn react as well.
 
@@ -93,7 +93,7 @@
 
 ### Day 10: Jan 12th, 2017 Thursday
 
-**Today's Progress**: created channel update and delete route, bootstrap the show page and edit page to show correct infomation from the db. 
+**Today's Progress**: created channel update and delete route, bootstrap the show page and edit page to show correct infomation from the db.
 
 **Thoughts** The app is start to taking shape, and I start to have more idea on where I can improve the app.
 
@@ -111,7 +111,7 @@
 
 ### Day 12: Jan 14th, 2017 Saturday
 
-**Today's Progress**: start to learn user auth and add user auth to the webapp. 
+**Today's Progress**: start to learn user auth and add user auth to the webapp.
 
 **Thoughts** I start to feel many of the features I would like to find in the webapp I don't really know how to do, but that motivated me to learn more and start to look for a solution online
 
@@ -149,7 +149,25 @@
 
 **Today's Progress**: User express router to break the code into a few different files.
 
-**Thoughts** Breaking the code into differnt pieces make the app's code look much cleaner. Which would help me to modify the code in the future. 
+**Thoughts** Breaking the code into differnt pieces make the app's code look much cleaner. Which would help me to modify the code in the future.
+
+**Link(s) to work**
+[Abuse_notification](https://github.com/leolee1986/abuse_notification)
+
+### Day 17: Jan 19th, 2017 Thursday
+
+**Today's Progress**: Learn about react component, a beginner understand props and state
+
+**Thoughts** Since I got stuck on the project, I need to learn some new things to help continue to build the app
+
+**Link(s) to work**
+[Abuse_notification](https://github.com/leolee1986/abuse_notification)
+
+### Day 18: Jan 23th, 2017 Monday
+
+**Today's Progress**: Learn about react nested component, how to reference component inside another component
+
+**Thoughts** Stopped coding for 3 days. was being lazy and taking a break, but didn't code doesn't make me feel good, in fact, it make me feel bad by beating myself up for not coding or learning something new. Anyway, nothing I could do about the past, just need to think of this as a lesson to keep learning.
 
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
