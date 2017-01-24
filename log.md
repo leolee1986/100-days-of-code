@@ -171,3 +171,12 @@
 
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
+
+### Day 19: Jan 24th, 2017 Tuesday
+
+**Today's Progress**: Recreated the webapp on what I learned from code along over the last few days, review on state vs props, nested component
+
+**Thoughts** : start to understand a little bit more about the React basics. I was very confuse on what I learned for the last few days and today, with a little review and re created the small again, it start to make a lot more sense.
+
+**Link(s) to work**
+[Abuse_notification](https://github.com/leolee1986/abuse_notification)
