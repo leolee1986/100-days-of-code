@@ -163,7 +163,7 @@
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
 
-### Day 18: Jan 23th, 2017 Monday
+### Day 18: Jan 23rd, 2017 Monday
 
 **Today's Progress**: Learn about react nested component, how to reference component inside another component
 
@@ -180,3 +180,12 @@
 
 **Link(s) to work**
 [Abuse_notification](https://github.com/leolee1986/abuse_notification)
+
+### Day 20: Jan 25th, 2017 Wednesday
+
+**Today's Progress**: install and learn about the basic of webpack. Learn about webpack.config.js, use webpack to created the web in bundle.js file
+
+**Thoughts** : webpack config file is really confusing. hopefully it will start to make more sense when I start to practive more.
+
+**Link(s) to work**
+[react_learning](https://github.com/leolee1986/react_learning)
